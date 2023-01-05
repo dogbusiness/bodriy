@@ -1,0 +1,42 @@
+
+body{
+    background: url(../static/background.jpg) no-repeat center center fixed;
+}
+.header{
+    margin-top: 30px;
+}
+.address{
+    margin-top: 10px;
+}
+.bodriy{
+    margin-top: 30px; 
+}
+.bodrologo{
+    width: 150px;
+    height: 150px;
+    border-radius: 60%;
+}
+.goodfood{
+    margin-top: 30px; 
+}
+.goodlogo{
+    width: 150px;
+    height: 150px;
+    border-radius: 60%;
+}
+.bodriy:focus, .bodriy:active, .bodriy.active {
+    opacity: 0.3;
+}
+.goodfood:focus, .goodfood:active, .goodfood.active {
+    opacity: 0.3;
+}
+.goodimage{
+    width:600px;
+}
+.bodroimage{
+    width: 600px;
+}
+.delivery{
+    margin-top: 70px;
+}
+.btn-danger {border-radius: 50%;}
